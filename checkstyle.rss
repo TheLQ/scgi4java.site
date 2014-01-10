@@ -2,9 +2,9 @@
 
 <rss version="0.91">
   <channel>
-    <title>scgi - Checkstyle report</title>
-    <link>http://maven.apache.org</link>
-    <description>scgi - Checkstyle report</description>
+    <title>scgi4java - Checkstyle report</title>
+    <link>http://code.google.com/p/scgi4java/</link>
+    <description>scgi4java - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2014 Leon Blakey</copyright>
     <item>
@@ -13,9 +13,9 @@
              Warnings: 0,
              Infos: 0
       </title>
-            <link>http://maven.apache.org/checkstyle.html</link>
+            <link>http://code.google.com/p/scgi4java//checkstyle.html</link>
       <description>
-        <p>Click <a href="http://maven.apache.org/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="http://code.google.com/p/scgi4java//checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -29,7 +29,7 @@
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.thelq.scgi4java.scgi.SCGIServer.java">org/thelq/scgi4java/scgi/SCGIServer.java</a>
+                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIServer.java">org/thelq/scgi4java/scgi/SCGIServer.java</a>
                 </td>
                 <td>
                   0
@@ -38,12 +38,26 @@
                   0
                 </td>
                 <td>
-                  15
+                  16
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.thelq.scgi4java.scgi.SCGIException.java">org/thelq/scgi4java/scgi/SCGIException.java</a>
+                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIClient.java">org/thelq/scgi4java/scgi/SCGIClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIException.java">org/thelq/scgi4java/scgi/SCGIException.java</a>
                 </td>
                 <td>
                   0
@@ -53,20 +67,6 @@
                 </td>
                 <td>
                   2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://maven.apache.org/checkstyle.html#org.thelq.scgi4java.scgi.SCGIClient.java">org/thelq/scgi4java/scgi/SCGIClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  20
                 </td>
               </tr>
                       </tbody>
