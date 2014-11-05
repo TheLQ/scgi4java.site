@@ -2,20 +2,20 @@
 
 <rss version="0.91">
   <channel>
-    <title>scgi4java - Checkstyle report</title>
-    <link>http://code.google.com/p/scgi4java/</link>
-    <description>scgi4java - Checkstyle report</description>
+    <title>scgi - Checkstyle report</title>
+    <link>http://code.google.com/p/scgi4java/scgi/</link>
+    <description>scgi - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2014 Leon Blakey</copyright>
     <item>
-      <title>File: 5,
-             Errors: 46,
+      <title>File: 3,
+             Errors: 37,
              Warnings: 0,
              Infos: 0
       </title>
-            <link>http://code.google.com/p/scgi4java//checkstyle.html</link>
+            <link>http://code.google.com/p/scgi4java/scgi//checkstyle.html</link>
       <description>
-        <p>Click <a href="http://code.google.com/p/scgi4java//checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="http://code.google.com/p/scgi4java/scgi//checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -29,7 +29,7 @@
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIServer.java">org/thelq/scgi4java/scgi/SCGIServer.java</a>
+                  <a href="http://code.google.com/p/scgi4java/scgi//checkstyle.html#org.thelq.scgi4java.scgi.SCGIServer.java">org/thelq/scgi4java/scgi/SCGIServer.java</a>
                 </td>
                 <td>
                   0
@@ -43,35 +43,7 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi.xmlrpc.XmlRpcScgiTransport.java">org/thelq/scgi/xmlrpc/XmlRpcScgiTransport.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi.xmlrpc.XmlRPCScgiTransportFactory.java">org/thelq/scgi/xmlrpc/XmlRPCScgiTransportFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIClient.java">org/thelq/scgi4java/scgi/SCGIClient.java</a>
+                  <a href="http://code.google.com/p/scgi4java/scgi//checkstyle.html#org.thelq.scgi4java.scgi.SCGIClient.java">org/thelq/scgi4java/scgi/SCGIClient.java</a>
                 </td>
                 <td>
                   0
@@ -85,7 +57,7 @@
               </tr>
                           <tr>
                 <td>
-                  <a href="http://code.google.com/p/scgi4java//checkstyle.html#org.thelq.scgi4java.scgi.SCGIException.java">org/thelq/scgi4java/scgi/SCGIException.java</a>
+                  <a href="http://code.google.com/p/scgi4java/scgi//checkstyle.html#org.thelq.scgi4java.scgi.SCGIException.java">org/thelq/scgi4java/scgi/SCGIException.java</a>
                 </td>
                 <td>
                   0
